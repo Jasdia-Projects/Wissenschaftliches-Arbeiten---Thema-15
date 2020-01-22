@@ -1,0 +1,17 @@
+{
+    "[markdown]": {
+        "editor.formatOnSave": true,
+        "editor.wordWrap": "on",
+        "editor.renderWhitespace": "all",
+        "editor.acceptSuggestionOnEnter": "smart"
+    },
+    "files.exclude": {
+        "**/.template": true,
+        "**/.build": true,
+        "**/.docker": true,
+        "**/.vscode": true,
+        "**/.gitignore": true,
+        "**/.travis.yml": true,
+        "**/.markdownlint.json": true
+    }
+}
