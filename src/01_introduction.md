@@ -1,10 +1,10 @@
 ---
-    header-title: Transferleistung 1
-    title: Optimierung der Build-Dauer eines Web Application Bundler durch Anpassung der Konfiguration und dessen Auswirkung auf den Entwicklungsprozess
+    header-title: Wissenschaftlisches Arbeiten - Informatik und Gesellschaft
+    title: DSGVO und e-privacy - Gesellschaftliche Auswirkungen
     
-    author: Max Mustermann
-    Zenturie: A22f
-    Studiengang: Angewandte Informatik
+    author: Sandra Bernich, Jonas Huhndorf
+    Zenturie: I19a
+    Studiengang: Wirtschaftsinformatik
     Matrikelnummer: 1337
 
     keywords: [keyword1, keyword2]
@@ -30,11 +30,11 @@ Voces ales credita. Cum misit terram est votaque quis dederat sumit, profecturas
 criminis totque sex querenti. Iudice est illis *et* vires et Insula, mactandus,
 credulitate iudicium ita.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Tables        |      Are      |  Cool |
+|---------------|:-------------:|------:|
 | col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| col 2 is      |   centered    |   $12 |
+| zebra stripes |   are neat    |    $1 |
 
 Saxa resoluta quid nupta, tremulis ore infelix
 [ipse](http://urbes-caede.org/siccaveratadversum) deque caelitibus confessa
