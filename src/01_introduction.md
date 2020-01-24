@@ -1,6 +1,6 @@
 ---
-    header-title: Wissenschaftlisches Arbeiten - Informatik und Gesellschaft
-    title: DSGVO und e-privacy - Gesellschaftliche Auswirkungen
+    header-title: Informatik und Gesellschaft
+    title: e-privacy und DSGVO: gesellschaftliche Auswirkungen der neuen Rechtslage
     
     author: Sandra Bernich, Jonas Huhndorf
     Zenturie: I19a
