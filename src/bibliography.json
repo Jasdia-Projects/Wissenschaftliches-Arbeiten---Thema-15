@@ -31,6 +31,24 @@
     "type":"book",
     "ISBN":"978-3-658-18506-0",
     "issued":"2017"
+  },
+  {
+    "id": "src:BVDW",
+    "title": "Aktuelle Informationen zur ePrivacy-Verordnung",
+    "publisher": "Bundesverband Digitale Wirtschaft (BVDW) e.V.",
+    "author": [
+      {"family": "o.V."}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ]
+    },
+    "URL": "https://www.bvdw.org/themen/recht/kommunikationsrecht-eprivacy/"
   }
-
 ]

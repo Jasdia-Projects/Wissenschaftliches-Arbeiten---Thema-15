@@ -4,7 +4,7 @@ Thema 15: e-privacy-Verordnung und DSGVO: gesellschaftliche Auswirkungen der neu
 
 # Thema
 
-In der Hausarbeit wird der Hintergrund und die Auswirkung der DSGVO und der E-Privacy-Verordnung beleuchtet. Es wird der Hintergrund der Abspaltung der E-Privacy-Verordnung von der DSGVO thematisiert. Weiterhin werden die Ziele und Hoffnungen (durch die Einführung) der Verordnungen mit der aktuellen Situation (direkte Auswirkungen und subjektive Wahrnehmung) verglichen. Zu dem erfolgt eine Kontrastierung der früheren Richtlinie mit der DSGVO. Am Ende der Hausarbeit wurde erläutert, inwieweit die DSGVO eine Verbesserung erbracht hat und die Ziele der Verordnungen erreicht wurden
+In der Hausarbeit wird der Hintergrund und die Auswirkung der DSGVO und der E-Privacy-Verordnung beleuchtet. Es wird der Hintergrund der Abspaltung der E-Privacy-Verordnung von der DSGVO thematisiert. Weiterhin werden die Ziele und Hoffnungen (durch die Einführung) der Verordnungen mit der aktuellen Situation (direkte Auswirkungen und subjektive Wahrnehmung) verglichen. Zu dem erfolgt eine Kontrastierung der früheren Richtlinie mit der DSGVO. Am Ende der Hausarbeit wurde erläutert, inwieweit die DSGVO eine Verbesserung erbracht hat und die Ziele der Verordnungen erreicht wurden.
 
 # Vorgehen
 
