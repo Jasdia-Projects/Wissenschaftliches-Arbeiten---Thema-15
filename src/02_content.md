@@ -25,8 +25,8 @@ BLABLA
 1. Auswirkungen der DSGVO und E-Privacy-Verordnung
     1. Forderungen und Ziele der Verordnungen
     1. Subjektive Wahrnehmung
-    1. Kontrastierung zu Richtlinie 95/46/EG (Datenschutzrichtlinie) 
-    1. Konkrete Auswirkungen der DSGVO 
+    1. Kontrastierung zu Richtlinie 95/46/EG (Datenschutzrichtlinie)
+    1. Konkrete Auswirkungen der DSGVO
     1. Ausblick
 1. Fazit
     1. Was haben die Verordnungen tatsächlich bewirkt
