@@ -12,6 +12,18 @@
     "URL":"https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679"
   },
   {
+    "id": "src:e-privacy",
+    "shortTitle": "Verordnung über Privatsphäre und elektronische Kommunikation",
+    "title": "Vorschlag für eineVERORDNUNG DES EUROPÄISCHEN PARLAMENTS UND DES RATESüber die Achtung des Privatlebens und den Schutz personenbezogener Daten in der elektronischen Kommunikation und zur Aufhebung der Richtlinie2002/58/EG",
+    "type":"legislation",
+    "author": [
+      { "family": "o.V." }
+    ],
+    "issued": "2017",
+    "publisher":"Europaparlament",
+    "URL":"https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:52017PC0010"
+  },
+  {
     
   }
 
