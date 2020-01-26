@@ -11,6 +11,7 @@
         @src:DSGVO
         @src:Datenschutzaufsicht
         @src:e-privacy
+        @src:BVDW
     keywords: [keyword1, keyword2]
 ---
 
