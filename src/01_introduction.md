@@ -9,6 +9,8 @@
 
     nocite: |
         @src:DSGVO
+        @src:Datenschutzaufsicht
+        @src:e-privacy
     keywords: [keyword1, keyword2]
 ---
 
