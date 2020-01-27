@@ -30,7 +30,8 @@ In Abschnitt 3 wird auf die Auswirkungen der Verordnungen eingegangen. Dabei wer
 
 Das Fazit wird die objektiven und subjektiven Veränderungen durch die DSGVO darstellen und bewerten in wieweit die Ziele der Verordnungen erreicht wurden.
 
-\subsection {Gliederung}
+
+\underline{Gliederung}
 
 1. Einführung
     1. Einleitung in das Thema
