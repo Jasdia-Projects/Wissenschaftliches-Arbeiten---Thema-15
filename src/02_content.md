@@ -21,12 +21,12 @@ Geplantes Enddatum: 1. März.
 
 # Aufbau
 
-In Abschnitt 1 wird in das Thema eingeführt und die Wichtigkeit dargestellt. Es werden Fragestellungen zur Entstehung der Thematik aufgeworfen und auf die Aktualität Bezug genommen. Der Leser soll über die Wichtigkeit des Themas informiert werden.
-Das Thema selbst wird bei der Betrachtung der Auswirkung auf den deutschen Raum fokussiert, um eine konkretere Ausarbeitung vorzunehmen. Beispiele, aus dem kompletten europäischen Raum, werden an geeigneten Stellen herangezogen.
+In Abschnitt 1 wird in das Thema eingeführt. Es werden Fragestellungen zur Entstehung der Thematik aufgeworfen und auf die Aktualität des Themas Bezug genommen. Der Leser soll über die Wichtigkeit der Thematik informiert werden.
+Das Thema wird bei der Betrachtung der Auswirkungen auf den deutschen Raum fokussiert, um eine konkretere Ausarbeitung vorzunehmen.
 
 Eine genauere Erläuterung der Verordnungen erfolgt in Abschnitt 2. Es wird jeweils genauer auf den Entwicklungsprozess, sowie auf den aktuellen Stand eingegangen. Mit dem Abschnitt wird der Leser in das Thema eingeführt und auf die Problematik - die die Hausarbeit thematisiert -  hingeführt.
 
-In Abschnitt 3
+In Abschnitt 3 wird auf die Auswirkungen der Verordnungen eingegangen. Dabei werden sowohl Meinungen und Befürchtungen einzelner (subjektiv) als auch nachweisbare Folgen (objektiv) beleuchtet. Wir kontrastieren die ersetzte Verordnung mit den neuen Verordnungen, um die Veränderungen in den Fokus unserer Betrachtung ziehen zu können. Am Ende des Kapitels werden wir den aktuellen Stand der Verordnungen aufzeigen und eine Prognose für die weiter Entwicklung geben.
 
 Das Fazit wird die objektiven und subjektiven Veränderungen durch die DSGVO darstellen und bewerten in wieweit die Ziele der Verordnungen erreicht wurden.
 
@@ -51,4 +51,3 @@ Das Fazit wird die objektiven und subjektiven Veränderungen durch die DSGVO dar
 1. Fazit
     1. Wurden die geplanten Ziele der Verordnungen erreicht
     1. Was haben die Verordnungen tatsächlich bewirkt
-
