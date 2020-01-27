@@ -4,13 +4,24 @@ Thema 15: e-privacy-Verordnung und DSGVO: gesellschaftliche Auswirkungen der neu
 
 # Thema
 
-In der Hausarbeit wird der Hintergrund und die Auswirkung der DSGVO und der E-Privacy-Verordnung beleuchtet. Es wird der Hintergrund der Abspaltung der E-Privacy-Verordnung von der DSGVO thematisiert. Weiterhin werden die Ziele und Hoffnungen (durch die Einführung) der Verordnungen mit der aktuellen Situation (direkte Auswirkungen und subjektive Wahrnehmung) verglichen. Zu dem erfolgt eine Kontrastierung der früheren Richtlinie mit der DSGVO. Am Ende der Hausarbeit wurde erläutert, inwieweit die DSGVO eine Verbesserung erbracht hat und die Ziele der Verordnungen erreicht wurden.
+In der Hausarbeit wird der Hintergrund und die Auswirkung der DSGVO und der e-privacy-Verordnung beleuchtet.
+Zu Beginn soll die Abspaltung der e-privacy-Verordnung von der DSGVO, anhand der öffentlich geführten politischen Diskussion, thematisiert werden. Weiterhin werden die Ziele und Erwartungen durch die Einführung der Verordnungen mit der aktuellen Situation verglichen. Dabei werden sowohl direkte Auswirkungen als auch subjektive Wahrnehmungen genauer beleuchtet. Zu dem erfolgt eine Kontrastierung, zu der ersetzten Richtlinie, mit der DSGVO, um die Veränderungen für die Gesellschaft konkreter abgrenzen zu können. Auf Basis der gewonnenen Erkenntnisse wird am Ende der Hausarbeit erläutert, inwieweit die DSGVO eine Verbesserung erbracht hat und die Ziele der Verordnung erreicht wurden. Darüber hinaus wird eine mögliche Entwicklung der e-privacy-Verordnung und zukünftige Auswirkungen durch das Inkrafttreten der Verordnung aufgezeigt. 
+
 
 # Vorgehen
 
 BLABLA
 
 # Aufbau
+
+In Abschnitt 1 wird in das Thema eingeführt und die Wichtigkeit dargestellt. Es werden Fragestellungen zur Entstehung der Thematik aufgeworfen und auf die Aktualität Bezug genommen. Der Leser soll über die Wichtigkeit des Themas informiert werden.
+Das Thema selbst wird bei der Betrachtung der Auswirkung auf den deutschen Raum fokussiert, um eine konkretere Ausarbeitung vorzunehmen. Beispiele, aus dem kompletten europäischen Raum, werden an geeigneten Stellen herangezogen.
+
+Eine genauere Erläuterung der Verordnungen erfolgt in Abschnitt 2. Es wird jeweils genauer auf den Entwicklungsprozess, sowie auf den aktuellen Stand eingegangen. Mit dem Abschnitt wird der Leser in das Thema eingeführt und auf die Problematik - die die Hausarbeit thematisiert -  hingeführt.
+
+In Abschnitt 3
+
+Das Fazit wird die objektiven und subjektiven Veränderungen durch die DSGVO darstellen und bewerten in wieweit die Ziele der Verordnungen erreicht wurden.
 
 1. Einführung
     1. Einleitung in das Thema
@@ -29,5 +40,6 @@ BLABLA
     1. Konkrete Auswirkungen der DSGVO
     1. Ausblick
 1. Fazit
-    1. Was haben die Verordnungen tatsächlich bewirkt
     1. Wurden die geplanten Ziele der Verordnungen erreicht
+    1. Was haben die Verordnungen tatsächlich bewirkt
+
