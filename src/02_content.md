@@ -1,22 +1,23 @@
 # Titel
 
-Thema 15: e-privacy-Verordnung und DSGVO: gesellschaftliche Auswirkungen der neuen
+Thema 15: e-privacy-Verordnung und DSGVO: gesellschaftliche Auswirkungen der neuen Rechtslage
 
 # Thema
 
 In der Hausarbeit wird der Hintergrund und die Auswirkung der DSGVO und der e-privacy-Verordnung beleuchtet.
-Zu Beginn soll die Abspaltung der e-privacy-Verordnung von der DSGVO, anhand der öffentlich geführten politischen Diskussion, thematisiert werden. Weiterhin werden die Ziele und Erwartungen durch die Einführung der Verordnungen mit der aktuellen Situation verglichen. Dabei werden sowohl direkte Auswirkungen als auch subjektive Wahrnehmungen genauer beleuchtet. Zu dem erfolgt eine Kontrastierung, zu der ersetzten Richtlinie, mit der DSGVO, um die Veränderungen für die Gesellschaft konkreter abgrenzen zu können. Auf Basis der gewonnenen Erkenntnisse wird am Ende der Hausarbeit erläutert, inwieweit die DSGVO eine Verbesserung erbracht hat und die Ziele der Verordnung erreicht wurden. Darüber hinaus wird eine mögliche Entwicklung der e-privacy-Verordnung und zukünftige Auswirkungen durch das Inkrafttreten der Verordnung aufgezeigt. 
-
+Zu Beginn soll die Abspaltung der e-privacy-Verordnung von der DSGVO, anhand der öffentlich geführten politischen Diskussion, thematisiert werden. Weiterhin werden die Ziele und Erwartungen durch die Einführung der Verordnungen mit der aktuellen Situation verglichen. Dabei werden sowohl direkte Auswirkungen als auch subjektive Wahrnehmungen genauer beleuchtet. Zu dem erfolgt eine Kontrastierung, zu der ersetzten Richtlinie, mit der DSGVO, um die Veränderungen für die Gesellschaft konkreter abgrenzen zu können. Auf Basis der gewonnenen Erkenntnisse wird am Ende der Hausarbeit erläutert, inwieweit die DSGVO eine Verbesserung erbracht hat und die Ziele der Verordnung erreicht wurden. Darüber hinaus wird eine mögliche Entwicklung der e-privacy-Verordnung und zukünftige Auswirkungen durch das Inkrafttreten der Verordnung aufgezeigt.
 
 # Vorgehen
 
-Zuerst lesen wir uns die Originaltexte der Verordnungen durch, um einen Überblick über den Umfang der Gesetze zu erhalten. Dabei stellen wir die Forderungen und Ziele der Verordnungen heraus.
-Im weiteren Verlauf informieren wir uns über die Auswirkungen auf die Gesellschaft, indem wir Literaturrecherche betreiben, sowie nach Petitionen, Studien und Analysen und Aufzeichnungen von Veranstaltungen suchen. Es muss darauf geachtet werden, das objektive und subjektive Quellen klar differenziert werden.
-Daraus fassen wir die resultierenden Probleme und ggf. Lücken bei der neuen Gesetzgebung zusammen. Am Ende zeigen wir die bisher erreichten Fortschritte auf und geben eine Prognose für die Zukunft an.
+Zuerst lesen wir uns die Originaltexte der Verordnungen durch, um einen Überblick über den Umfang der Gesetzestexte zu erhalten. Dabei stellen wir die Forderungen und Ziele der Verordnungen heraus.
 
-Geplantes Enddatum: 1. März.
+Im weiteren Verlauf informieren wir uns über die Auswirkungen für die Gesellschaft, indem wir Literaturrecherche betreiben. Einen Fokus legen wir auf Petitionen, erste Studien und Analysen, sowie Aufzeichnungen von Veranstaltungen. Die Auswahl der präferierten Literaturformate ist der Aktualität des Themas zurückzuführen. Es muss darauf geachtet werden, das objektive und subjektive Quellen klar differenziert werden.
+
+Daraus fassen wir die resultierenden Probleme und gegebenenfalls Lücken bei der neuen Gesetzgebung zusammen. Am Ende zeigen wir die bisher erreichten Fortschritte auf und geben eine Prognose für die Zukunft an.
 
 Struktur und Literaturrecherche bis 9. Februar.
+
+Geplantes Enddatum: 1. März.
 
 # Aufbau
 
@@ -43,10 +44,10 @@ Das Fazit wird die objektiven und subjektiven Veränderungen durch die DSGVO dar
         1. Aktueller Stand
 1. Auswirkungen der DSGVO und E-Privacy-Verordnung
     1. Forderungen und Ziele der Verordnungen
+    1. Kontrastierung zu Richtlinie 95/46/EG
     1. Subjektive Wahrnehmung
-    1. Kontrastierung zu Richtlinie 95/46/EG (Datenschutzrichtlinie)
     1. Konkrete Auswirkungen der DSGVO
-    1. Ausblick
+    1. Ausblick der e-privacy-Verordnung
 1. Fazit
     1. Wurden die geplanten Ziele der Verordnungen erreicht
     1. Was haben die Verordnungen tatsächlich bewirkt
