@@ -10,7 +10,13 @@ Zu Beginn soll die Abspaltung der e-privacy-Verordnung von der DSGVO, anhand der
 
 # Vorgehen
 
-BLABLA
+Zuerst lesen wir uns die Originaltexte der Verordnungen durch, um einen Überblick über den Umfang der Gesetze zu erhalten. Dabei stellen wir die Forderungen und Ziele der Verordnungen heraus.
+Im weiteren Verlauf informieren wir uns über die Auswirkungen auf die Gesellschaft, indem wir Literaturrecherche betreiben, sowie nach Petitionen, Studien und Analysen und Aufzeichnungen von Veranstaltungen suchen. Es muss darauf geachtet werden, das objektive und subjektive Quellen klar differenziert werden.
+Daraus fassen wir die resultierenden Probleme und ggf. Lücken bei der neuen Gesetzgebung zusammen. Am Ende zeigen wir die bisher erreichten Fortschritte auf und geben eine Prognose für die Zukunft an.
+
+Geplantes Enddatum: 1. März.
+
+Struktur und Literaturrecherche bis 9. Februar.
 
 # Aufbau
 
