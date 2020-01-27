@@ -23,6 +23,8 @@ In Abschnitt 3
 
 Das Fazit wird die objektiven und subjektiven Veränderungen durch die DSGVO darstellen und bewerten in wieweit die Ziele der Verordnungen erreicht wurden.
 
+\subsection {Gliederung}
+
 1. Einführung
     1. Einleitung in das Thema
     1. Begründete Eingrenzung des Themas
